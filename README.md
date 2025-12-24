@@ -1,2 +1,18 @@
 # ssc-open-mcq-bank
 Open-source SSC MCQ question bank — study, practice, and prepare for exams for free. Verified questions with explanations for better learning. In JSON Format.
+
+## In Progress
+
+## License
+
+This SSC Question Bank is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+You are free to:
+- Use for educational or commercial purposes
+- Modify and redistribute
+- Use in apps, websites, or other projects
+
+**Condition:** Proper credit must be given.
+
+### Example Attribution
+"SSC Question Bank by Mahib Abrar[https://github.com/MahibAbrar222] – CC BY 4.0"
